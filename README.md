@@ -1,6 +1,8 @@
 # terraform-eks-ecr-rds
-Terraform files to provision eks, ecr, and rds<br />
+Terraform files to provision AWS eks, ecr, and rds<br />
 
+# PREREQUISITES<br />
+terraform installed
 
 # Step 1. EKS<br /> 
 cd into /eks
