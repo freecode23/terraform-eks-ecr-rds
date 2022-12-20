@@ -1,4 +1,4 @@
-# terraform-eks-ecr-rds
+# Provisioning AWS EKS, ECR, RDS using Terraform
 Terraform files to provision AWS eks, ecr, and rds<br />
 
 # PREREQUISITES<br />
